@@ -1,1 +1,1 @@
-# food-recipies
+# food-recipes
